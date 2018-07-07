@@ -1,6 +1,6 @@
 #!/usr/bin/env expect
 # Usage: 
-# expect login.exp <account_name> <password>
+# expect login.exp <account_name> <password> <log_file>
 #
 # Example:
 # expect login.exp name123 pass456
